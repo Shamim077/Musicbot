@@ -69,4 +69,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     https://t.me/ERROR_BINS_AND_CC"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/Shamim077/Yukkihttps://github.com/Shamim077/Musicbot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [TEAM MOBIUS](https://github.com/Shamim077) ғᴏʀ [MOBIUS MUSIC BOT](https://github.com/Shamim077/Yukkihttps://github.com/Shamim077/Musicbot)_ </b>
