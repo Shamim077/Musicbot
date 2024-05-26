@@ -66,7 +66,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <p align="center">
 <a href="
-    https://t.me/ERROR_BINS_AND_CC"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    https://t.me/Theshezadi29"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [TEAM MOBIUS](https://github.com/Shamim077) ғᴏʀ [MOBIUS MUSIC BOT](https://github.com/Shamim077/Yukkihttps://github.com/Shamim077/Musicbot)_ </b>
