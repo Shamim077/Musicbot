@@ -61,12 +61,12 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/Theshezadi29"><img src="https://img.shields.io/badge/-bakbak%20ladki-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GOJOXCOPYRIGHT"><img src="https://img.shields.io/badge/-support%20channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
 <a href="
-    https://t.me/TeamRolexx"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    https://t.me/best_friends_chatting_grp01"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [TEAM MOBIUS](https://github.com/Shamim077) ғᴏʀ [MOBIUS MUSIC BOT](https://github.com/Shamim077/Yukkihttps://github.com/Shamim077/Musicbot)_ </b>
